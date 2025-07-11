@@ -1,4 +1,4 @@
-# X
+# XSTREAM-backend
 
 This project provides a collection of libraries for various functionalities. Here's a brief overview of each library:
 
@@ -27,7 +27,7 @@ These instructions will guide you on how to use this library in your Go projects
 To use this library in your Go project, you need to download it using the `go get` command:
 
 ```bash
-go get github.com/hardiksachan/x
+go get github.com/Nikhil-Raj-Singh/xstream-backend
 ```
 
 ### Usage
@@ -39,7 +39,7 @@ package main
 
 import (
     "fmt"
-    "github.com/Nikhil-Raj-Singh/x/xerrors"
+    "github.com/Nikhil-Raj-Singh/xstream-backend/xerrors"
 )
 
 func main() {
