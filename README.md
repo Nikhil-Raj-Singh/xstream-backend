@@ -39,7 +39,7 @@ package main
 
 import (
     "fmt"
-    "github.com/hardiksachan/x/xerrors"
+    "github.com/Nikhil-Raj-Singh/x/xerrors"
 )
 
 func main() {
@@ -52,9 +52,9 @@ func main() {
 
 **Hardik Sachan**
 
-- [Github](https://github.com/hardiksachan)
-- [LinkedIn](https://www.linkedin.com/in/hardik-sachan/)
-- [X](https://x.com/hardik__sachan)
+- [Github](https://github.com/Nikhil-Raj-Singh)
+- [LinkedIn](https://www.linkedin.com/in/nikhil-raj-singh/)
+- [X](https://x.com/nikhil-raj-singh)
 
 ## Support
 
